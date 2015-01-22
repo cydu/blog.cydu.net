@@ -11,7 +11,7 @@ comments: true
 ---
 
 非常感谢[@NinGoo](http://weibo.com/n/NinGoo) 的邀请, 昨天在
-[#Velocity中国大会#](http://huati.weibo.com/k/velocity中国大会2012) 上做了一个分享, 
+[#Velocity中国大会#](http://huati.weibo.com/k/velocity中国大会2012) 上做了一个分享: [微架构设计之微博计数器服务](http://velocity.oreilly.com.cn/2012/index.php?func=autobio&id=45), 
 主要讲的内容还是微博计数器的设计思路, 但是侧重点方面和之前的Blog略有区别. 
 
 Blog侧重更细节的一些优化和考量,因为大家可以有更多的时间
