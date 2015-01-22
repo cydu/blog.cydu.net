@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[微扯蛋]工程师的价值和cy分类法"
+title: "[WeiTalk]工程师的价值和cy分类法"
 description: ""
-category: 微扯蛋
+category: WeiTalk
 tags: weibo 价值观 cy分类法
 toc: true
 comments: true

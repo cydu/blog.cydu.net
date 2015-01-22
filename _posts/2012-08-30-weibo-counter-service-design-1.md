@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[微架构设计]微博计数器的设计(上)"
+title: "[WeiDesign]微博计数器的设计(上)"
 description: ""
-category: weibo design
+category: WeiDesign
 tags: 计数器 微架构设计 微博平台架构
 comments: true
 ---

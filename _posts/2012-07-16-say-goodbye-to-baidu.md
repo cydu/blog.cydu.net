@@ -2,7 +2,7 @@
 layout: post
 title: "再见 -- 那些年我们一起写的代码"
 description: ""
-category: cydu 
+category: Work
 tags: 百度 离职 再见 感谢 cydu
 comments: true
 ---

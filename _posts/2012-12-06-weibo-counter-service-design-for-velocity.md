@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "[微架构设计]微博计数器的设计 velocity"
+title: "[WeiDesign]微博计数器的设计 velocity"
 date: 2012-12-06 12:42
 description: ""
 sharing: true
-category: weibo design
+category: WeiDesign
 tags: velocity 计数器 微架构设计 微博平台架构
 toc: false
 comments: true
