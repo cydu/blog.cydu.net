@@ -17,6 +17,7 @@ One of the chief designers/committers of an MVC application framework named NGUI
 
 ## Contacts
 
+- <https://github.com/cydu>
 - <http://weibo.com/cydu>
 - <http://cn.linkedin.com/in/chuanying>
 - <http://about.me/cydu>
