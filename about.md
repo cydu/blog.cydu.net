@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![cydu](/public/image/photo_cydu.jpg)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Chuanying Du is the architect of the Infrastructure team in Sina Weibo, one of the most popular sites in China, in use by well over 500 million users, with a similar market penetration that Twitter has established in the USA. 
 
-There are currently two themes built on Poole:
+Architect and core developer of Weibo Counter Service, which store more than 100 billion counters and process much more than 2 million requests(read + write) per second at a very low cost.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Tech Leader and main developer of Baidu App Engine, a platform as a service (PaaS) cloud computing platform for developing and hosting web applications in Baidu-managed data centers. Chuanying designed and implemented Baidu App Engine from scratch.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Tech Leader and main designer of Baidu Personal Cloud Storage, an online file storage web service offered by Baidu, akin to Amazon's Simple Storage Service. 
 
-## Setup
+One of the chief designers/committers of an MVC application framework named NGUI.
 
-Some fun facts about the setup of this project include:
+## Contacts
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+- <http://weibo.com/cydu>
+- <http://cn.linkedin.com/in/chuanying>
+- <http://about.me/cydu>
