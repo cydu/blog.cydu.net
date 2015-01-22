@@ -12,7 +12,7 @@ relative_permalinks: true
 title:              "Cydu's Blog"
 tagline:            "Keep it Simple & Stupid!"
 description:        "Chuanying Du"
-url:                http://blog.cydu.net
+url:                http://cydu.github.io/blog.cydu.net/
 baseurl:            /
 paginate:           5
 
