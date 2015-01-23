@@ -14,7 +14,7 @@ tagline:            "Keep it Simple & Stupid!"
 description:        "Chuanying Du"
 url:                http://cydu.github.io/blog.cydu.net/
 baseurl:            /
-paginate:           5
+paginate:           20
 
 # About/contact
 author:
