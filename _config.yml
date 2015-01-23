@@ -1,0 +1,32 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:              "Cydu's Blog"
+tagline:            "Keep it Simple & Stupid!"
+description:        "Chuanying Du"
+url:                http://cydu.github.io/blog.cydu.net/
+baseurl:            /
+paginate:           5
+
+# About/contact
+author:
+  name:             Chuanying Du
+  short_name:       Cydu
+  email:            root at cydu.net
+  url:              https://weibo.com/cydu
+  gtalk:            hustdcy at gmail.com
+  weibo:            http://weibo.com/cydu
+  github:           https://github.com/cydu
+  twitter:          http://twitter.com/cydu
+  linkedin:         http://cn.linkedin.com/in/chuanying
+
+# Custom vars
+version:             1.0.0
