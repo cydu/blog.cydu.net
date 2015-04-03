@@ -16,7 +16,7 @@ layout: post
 title: "%s"
 description: ""
 category: WeiTalk
-tags: 
+tags:
 ---
 
 '''
@@ -31,12 +31,11 @@ def create_post(argv):
     os.system(backupcmd)
     print "Backup: " + backupcmd
 
-  print "create post " + fname 
+  print "create post " + fname
   with open(fname, "w") as f:
     f.write(content)
 
-  os.system("mvim " + fname)
+  os.system("gvim " + fname)
 
 if __name__ == "__main__":
   create_post(sys.argv[1:])
-
