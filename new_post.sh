@@ -15,7 +15,7 @@ def template(argv):
 layout: post
 title: "%s"
 description: ""
-category: WeiTalk
+category: LivingAbroad
 tags:
 ---
 
@@ -34,8 +34,6 @@ def create_post(argv):
   print "create post " + fname
   with open(fname, "w") as f:
     f.write(content)
-
-  os.system("gvim " + fname)
 
 if __name__ == "__main__":
   create_post(sys.argv[1:])
