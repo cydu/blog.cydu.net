@@ -6,6 +6,8 @@ category: LivingAbroad
 tags:
 ---
 
+![cydu](/public/image/20150413_zurich.jpg)
+
     cydu: Execuse me, could you please tell me how can I get XXX?
     San: Baba, baba, baba, ....
     
