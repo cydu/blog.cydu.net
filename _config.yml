@@ -30,3 +30,5 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+theme: jekyll-theme-minimal
